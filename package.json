@@ -1,0 +1,19 @@
+{
+  "name": "futboltokens.online",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vapaee/futboltokens-online.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vapaee/futboltokens-online/issues"
+  },
+  "homepage": "https://github.com/vapaee/futboltokens-online#readme"
+}
